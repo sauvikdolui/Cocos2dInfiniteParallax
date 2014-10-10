@@ -10,7 +10,7 @@
 #import "cocos2d.h"
 
 @interface ParallaxScene : CCScene {
-    
+    CGSize viewSize;
 }
-
++(CCScene*)scene;
 @end

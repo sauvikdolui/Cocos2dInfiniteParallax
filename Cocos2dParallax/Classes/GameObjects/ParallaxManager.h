@@ -10,7 +10,11 @@
 #import "cocos2d.h"
 
 @interface ParallaxManager : CCNode {
-    
+    CGSize viewSize;
 }
+
++(instancetype)sharedManager;
+-(void) applyParallaxOnScreenSprite:(CCSprite*) sprite withDuration:(float) parallaxDuration;
+-(void) applyParallaxOnLayer:(CCSprite*) layer withDuration:(float)parallaxDuration leftSize:(BOOL)leftSide;
 
 @end
