@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E2FDE7D-C7F2-45CE-926D-08C23F34B20D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cocos2dParallax</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3A033EBB81D1EBEEBF338329C724A66E7358233</key>
+		<string>https://github.com/sauvikatinnofied/Cocos2dInfiniteParallax.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cocos2dParallax.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3A033EBB81D1EBEEBF338329C724A66E7358233</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sauvikatinnofied/Cocos2dInfiniteParallax.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3A033EBB81D1EBEEBF338329C724A66E7358233</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3A033EBB81D1EBEEBF338329C724A66E7358233</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cocos2dParallax</string>
+		</dict>
+	</array>
+</dict>
+</plist>

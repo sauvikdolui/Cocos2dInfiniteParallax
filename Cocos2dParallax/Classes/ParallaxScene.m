@@ -80,12 +80,16 @@
         grass.anchorPoint = ccp(0.0,0.0f); // Initial Position
         grass.position    = ccp(0.0f,0.0f);
         [parallaxManager applyParallaxOnLayer:grass withDuration:30.0 leftSize:YES]; // Applying parallax
-        [self addChild:grass z:Z_ORDER_GRASS];        
-        
-        
+        [self addChild:grass z:Z_ORDER_GRASS];
         
     }
     
     return self;
 }
+
 @end
+
+///TODO: To do list
+///???: Questionable code
+///FIXME: Sample Fix me
+///!!!: Need further clarification
